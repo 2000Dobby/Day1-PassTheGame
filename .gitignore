@@ -1,0 +1,11 @@
+Library/
+Temp/
+Logs/
+MemoryCaptures/
+obj/
+UserSettings/
+.vs/
+SwitchIL2CPPCache/
+SwitchIL2CPPStats/
+*.csproj
+*.sln
